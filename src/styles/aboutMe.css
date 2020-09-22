@@ -1,0 +1,9 @@
+.aboutMe h1 {
+  color: red;
+  padding: 20px 20px;
+}
+
+.aboutMe p {
+  font-size: 16px;
+  padding: 0px 20px;
+}
